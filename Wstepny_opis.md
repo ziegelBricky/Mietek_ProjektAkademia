@@ -2,7 +2,7 @@
 Mieczysław Kledzik
 
 
-WPF - Symulator graficznego terminarzu rozgrywek fazy pucharowej Champions League(Ligi Mistrzów) dla firmy bukmacherskiej
+WPF - Symulator terminarzu rozgrywek fazy pucharowej Champions League(Ligi Mistrzów) dla firmy bukmacherskiej
 
 1. Losowość, jeśli chodzi o losowanie par (klubów) do kolejno 1/8, 1/4, 1/2 i 1/1 finału zgodnie z realnymi zasadami UEFA
 (np. w 1/8 finału kluby z tego samego kraju nie mogą trafić na siebie)
